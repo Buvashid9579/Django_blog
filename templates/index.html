@@ -152,7 +152,7 @@
                   </form>
 
                   <p class="mt-2">{{post.content|slice:"0:100"}}...</p>
-                  <p class="small text-primary">{{post.time}} </p>
+                  <p class="small text-primary">{{ post.time|date:"F j, Y" }} </p>
                 </div>
               </div>
               {% endfor %}
@@ -177,7 +177,7 @@
                           <a href="{% url 'post' post.id %}" class="text-decoration-none text-dark">
                             <h5>{{post.postname}}</h5>
                           </a>
-                          <span>{{post.time}}</span>
+                          <span>{{ post.time|date:"F j, Y" }}</span>
                         </a>
                       </li>
                       {% endfor %}

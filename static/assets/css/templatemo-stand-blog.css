@@ -430,7 +430,7 @@ header .navbar {
 	text-transform: capitalize;
 	letter-spacing: 0.5px;
 	font-weight: 900;
-	color: #20232e;
+	color: #20252e;
 	margin: 10px 0px 12px 0px;
 }
 
@@ -558,7 +558,7 @@ ul.page-numbers li a:hover {
 	text-transform: uppercase;
 	font-weight: 900;
 	letter-spacing: 0.5px;
-	color: #20232e;
+	color: #20252e;
 	border-bottom: 1px solid #eee;
 	padding-bottom: 15px;
 	margin-bottom: 25px;
@@ -600,7 +600,7 @@ ul.page-numbers li a:hover {
 }
 
 .blog-posts .comments ul li .right-content h4 {
-	color: #20232e;
+	color: #20252e;
 	font-size: 19px;
 	font-weight: 900;
 	letter-spacing: 0.5px;
@@ -689,7 +689,7 @@ ul.page-numbers li a:hover {
 	text-transform: uppercase;
 	font-weight: 900;
 	letter-spacing: 0.5px;
-	color: #20232e;
+	color: #20252e;
 	border-bottom: 1px solid #eee;
 	padding-bottom: 15px;
 	margin-bottom: 25px;
@@ -726,7 +726,7 @@ ul.page-numbers li a:hover {
 .sidebar .recent-posts ul li h5 {
 	font-size: 19px;
 	font-weight: 900;
-	color: #20232e;
+	color: #20252e;
 	line-height: 30px;
 	transition: all 0.3s;
 }
@@ -753,7 +753,7 @@ ul.page-numbers li a:hover {
 .sidebar .categories ul li a {
 	font-size: 15px;
 	font-weight: 700;
-	color: #20232e;
+	color: #20252e;
 	transition: all .3s;
 }
 
@@ -792,7 +792,7 @@ ul.page-numbers li a:hover {
 footer {
 	margin-top: 100px;
 	text-align: center;
-	background-color: #20232e;
+	background-color: #20252e;
 	padding: 60px 0px;
 }
 
@@ -861,7 +861,7 @@ footer p a:hover {
 	text-transform: uppercase;
 	font-weight: 900;
 	letter-spacing: 0.5px;
-	color: #20232e;
+	color: #20252e;
 	border-bottom: 1px solid #eee;
 	padding-bottom: 15px;
 	margin-bottom: 25px;
@@ -938,7 +938,7 @@ footer p a:hover {
 .contact-us .contact-information ul li h5 {
 	font-size: 19px;
 	font-weight: 900;
-	color: #20232e;
+	color: #20252e;
 	line-height: 30px;
 }
 
