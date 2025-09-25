@@ -50,7 +50,7 @@ To get a local copy up and running, follow these simple steps.
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Buvashid9579/Django_blog.git
 cd your-repository-name
 2. Set Up the Environment
 Create a virtual environment and install all the necessary dependencies from the requirements.txt file.
